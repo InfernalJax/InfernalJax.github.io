@@ -28,7 +28,7 @@ In 1987, 2.1 million Americans died, and it was later found that a poor diet was
 
 #### Who are the target users? Why should they care? 
 
-The target users are people who have access to mobile devices and aren’t consuming healthy nutritious meals; but specifically, we are targeting users who are interested in cooking quality meals within their budget, but are unsure of where to start learning since there is no central place to look. People from lower-class, middle-class, and high-class backgrounds could potentially benefit across the globe. These users care about the problem and our solution because improper dietary habits can not only impact the individual in the long run but could potentially also affect their children’s dietary habits. With individuals and their families utilizing our application, they can turn their eating habits around, which will in the future avoid potentially risky health issues down the road and for a healthier lifestyle.
+Our target users are people who have access to mobile devices and aren’t currently consuming healthy nutritious meals; but specifically, we are targeting users who are interested in cooking quality meals within their budget, but are unsure of where to start learning. These users care about the problem because improper dietary habits can not only impact the individual in the long run but could potentially also affect their children’s dietary habits. By using our application, they can turn their eating habits around, potentially avoiding health issues down the road.
 
 #### What is our solution? 
 
@@ -38,9 +38,9 @@ We developed our application using Android Studio, as it was one of the most eas
 
 #### How is your solution different than the existing solutions?
 
-The vast majority of similar solutions all have their best features locked behind a paywall. This came in the form of either a one-time purchase, or a monthly subscription charge. Considering that our target user is on a budget, we want to strive to create an app that is free-to-use. We want budgeting options to be the forefront of our app, to better serve those who are trying to eat healthy on a budget. 
+The vast majority of similar solutions all have their best features locked behind a paywall. This came in the form of either a one-time purchase, or a monthly subscription charge. Considering that our target user is on a budget, we want to strive to create an app that is free-to-use with budgeting options at the forefront.
 
-We also recognize that many of our users will be new to cooking their own food, and unlike the other solutions who assume a level of cooking expertise, we want to be able to cater to those with less cooking knowledge with our app. While other apps don’t have a way to show improvement in the cooking skills of the user, we hope to accomplish this by adding a leveling system, like other skills-based apps such as Duolingo, so that our users will feel a sense of accomplishment as they progress through each cooking level. We want this leveling system because in order for this app to be useful we want the users to feel good when using it so they come back to it. 
+We also recognize that many of our users will be new to cooking their own food, and unlike the other solutions who assume a level of cooking expertise, we want to be able to cater to those with less cooking knowledge with our app. While other apps don’t have a way to show improvement in the cooking skills of the user, we hope to accomplish this by adding a leveling system, like other skills-based apps such as Duolingo, so that our users will feel a sense of accomplishment as they progress through each recipe.
 
 
 #### References
