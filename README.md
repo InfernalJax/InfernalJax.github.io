@@ -1,7 +1,17 @@
-## Welcome to the Healthy Eats App Homepage!
+## Welcome
 
 This is a website for one of Western Washington University's CSCI 436/536 Technology for Social Good class projects.
-This is Group #4's "Healthy Eats" app, which started development in February of 2021.
+This is Group #4's "Healthy Eats" app, which started development Winter Quarter of 2021 with Dr. Shameem Ahmed.
+
+Students:
+- Jeremy Hummel (hummelj3@wwu.edu)
+- Taichen Rose (rosej25@wwu.edu)
+- Simone Sawyer (sawyery@wwu.edu)
+- Jax Rounds (roundsj@wwu.edu)
+
+
+
+
 
 ### Background
 
