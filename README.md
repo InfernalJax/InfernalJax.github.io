@@ -79,18 +79,28 @@ Overall we found that a lot of the apps were designed with one particular aspect
 
 Many of the systems we looked at also included some form of social media element, allowing the user to interact with their friends so they could share recipes or compete in fitness challenges. A lot of these implementations felt very, "tacked on" to the underlying existing system, and so we decided to not implement any similar social media feature in our design.
 
-#### Updated Prototype
+#### Updated Prototype 2
+
 ![Prototype 2 Collection 1](/Proto2 Collection1.png)
 
 ![Prototype 2 Collection 2](/Proto2 Collection2.png)
 
 
+#### User Study
 
-Give the pictures of your updated group prototype
-Explain your user study. 
-How many interviews did you conduct? 
-Write a summary of your findings. 
-Give the pictures of your updated group prototype
+After we had version 2 of our prototype designed, it was time to conduct a user study to get feedback about our app's design. As a team we came up with a questionnaire that would provide us with feedback on our prototype, what the user likes, doesn't like, how they would change things, and what their experience has been with similar apps of this nature in the past. 
+
+We ended up conducting 4 interviews, with each one providing us valuable insight as to how we should move forward with the development of Healthy Eats.
+
+Luckily all of our interviewees were rather content with our prototype. There was one underlying trend however, and that was that each person wanted more customization and control over their version of the app. One interviewee wanted more filtering options so they could search for recipies by "high protein" for example, and another wanted to be able to customize the homescreen so it would have widgets that they might find more useful. 
+
+The ability to rate each recipe after cooking it was also very well recieved, the simplicity of the rating system comprising of "unhappy faces, meh faces, and happy faces" was appealing to our interviewees. There was also an expressed interest in the "leveling system" feature of our app, even though the specifics were yet to be worked out.
+ 
+
+#### Updated Protoype 3
+
+![Prototype 3 Collection](/Proto3 Collection.png)
+
 
 ### Final Build
 
