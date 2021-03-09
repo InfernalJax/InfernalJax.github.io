@@ -104,12 +104,101 @@ The ability to rate each recipe after cooking it was also very well recieved, th
 
 ### Final Build
 
-Discuss in detail the final prototype (every feature); Give pictures as needed.
-Discuss all the technologies/software/API you used.
-Provide the link of your code repository (e.g., GitHub)
+Initial development for the Healthy Eats app finished on 3/12/21. The final version managed to stay rather close to its initial vision, with a few tweaks made for the convenience of being developed in classroom setting and being on a strict timeline.
+
+The app is divided into 4 main tabs:
+- Home
+- Cookbook
+- Grocery List
+- Account
+
+
+You can view the GitHub repository for the healthy Eats app [here](https://github.com/SayHello-Creator/HealthyEats).
+
+
+#### Home Tab
+
+The Home tab is the page the user will be greeted with upon opening the app.  
+
+It contains two widgets:
+- Favorites
+- Budget
+
+The Favorites widget shows what recipes the user has "favorited" by checking the heart icon on each recipe card. This gives them quick access to the recipies they like to make the most.
+
+The Budget widget contains information about the user's weekly budget for food and pulls info about the prices of the items in their grocery list and compiles it here to make sure they are on track to be within their budget.
+
+This page also has a search bar, allowing the user to search for recipies they're trying to look for. Users can search by name or by tags associated with each recipe, and sort results by alphabetical order, price, or calories.
+
+![Final Home Tab](/Final Home.png)
+
+#### Cookbook Tab
+
+The Cookbook tab is the page the use to browse through all the fun recipes the app has to offer. From here, the user can click on individual recipe cards to see everything they need to know about the recipe.
+
+It contains two widgets:
+- Our Favorites
+- You Should Try
+
+Both of these widgets display various recipes, the first widget displays our personal favorite recipes that we wanted to share with the user, and the second widget offers recipes that the user might not have tried yet.
+
+![Final Cookbook Tab](/Final Cookbook.png)
+
+#### Grocery List Tab
+
+The Grocery List tab allows the user to keep a list of the items they will need for the recipes they are going to make. Each recipe can have its ingredients imported to the list for convenience.
+
+Each grocery item is represented as a widet, with an image, a quantity, and price information.
+
+This list can also be sorted by alphabetical order or price.
+
+![Final Grocery List Tab](/Final Grocerylist.png)
+
+#### Account Tab
+
+The Account tab is where the user can access their basic profile settings and information.
+
+Settings they can change:
+- Profile picture
+- Name
+- Number of people in the household
+- Weekly budget
+- Notifications
+- Language
+- Units (Metric/Imperial)
+- Currency denomination
+
+![Final Account Tab](/Final Account.png)
+
+#### Recipe Cards
+
+Each recipe card has a handful of information about the recipe.
+
+Each card contains:
+- Price info
+- Nutrition info
+- Estimated cook time
+- Serving sizes
+- Diet information (Vegan, dairy free, etc)
+- Ingredients
+- Instructions
+
+![Final Recipe Card](/Final Recipe.png)
+
+
+#### Technologies Utilized
+
+The entire project was written in Java and utilizes JSON files to store recipe and user data.
+
+The app was developed within Android Studio, an excellent tool for collaborative mobile development.
+
 
 ### Video Walkthrough
-Upload a short demo video (what you already submitted for this course)
+
+You can watch a video demonstration of the Healthy Eats app [here]().
 
 ### Future Work
-How could your work be extended and why would that be useful?
+
+One of the biggest challenges we faced in developing this app was the lack of quality open-source recipes. Most available databases either lacked calorie information, price information, pictures, or detailed instructions. A worthwhile extension of our work would be to develop a software to scrape recipe websites with all of the information we desired, and to format them neatly for the Healthy Eats app to use. That would allow each feature of the app, particularly the calorie and budget tools, to be really fleshed out.
+
+Some of our settings are also simply placeholders at the moment. We want to be able to provide language support to other languages besides English, however given the scope of our class to do so was unfeasible. Translating the app would definitely broaden the range of people who could take advantage of its potential, and help more people eat healthier.
