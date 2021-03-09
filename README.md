@@ -51,9 +51,34 @@ We also recognize that many of our users will be new to cooking their own food, 
 
 ### Research Methodology
 
-Explain your systematic literature review. How many papers did you read? Write a summary of your findings. Give the pictures of your group prototype
-Explain your system analysis. How many systems did you analyze? Write a summary of your findings. Give the pictures of your updated group prototype
-Explain your user study. How many interviews did you conduct? Write a summary of your findings. Give the pictures of your updated group prototype
+#### Our Systematic Literature Review
+
+In preperation for designing our first prototype of the app, our team conducted a brief literature review to try learn about what other reseachers have tested and what worked or didn't work.  
+
+We reviewed 8 papers in total on the subject of promoting healthy eating via some ICT implementation or with specific constrains, such as a budget.  
+
+Overall, we noticed a couple of main points that we wanted to address:
+- Inequality in nutrition - Lower income houeholds tend to eat less healthy than higher income households due to time/money constraints
+- Gamification is key - Providing incentives to eat healthier has shown fantastic results in changing targetted behavior and to keep users engaged with the ICT
+- Everyone is different - healthy proposals promising a "one size fits all solution" are going to fail, plans need to be adjustable
+- Knowledge is power - while strict budgets make healthy eating more difficult, it is possible with proper educational resources on the subject
+
+After our literature review we knew that when designing our app we need it to be targetted towards lower-income households, and to provide them with basic education about how to succesfully eat healthy on a budget. We also needed to find a way to keep our users engaged and coming back to the app, so some form of gamification elements should be included.
+
+#### Initial Prototype
+
+
+
+How many papers did you read? Write a summary of your findings. 
+Give the pictures of your group prototype
+Explain your system analysis. 
+How many systems did you analyze? 
+Write a summary of your findings. 
+Give the pictures of your updated group prototype
+Explain your user study. 
+How many interviews did you conduct? 
+Write a summary of your findings. 
+Give the pictures of your updated group prototype
 
 ### Final Build
 
