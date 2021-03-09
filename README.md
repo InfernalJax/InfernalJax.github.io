@@ -51,9 +51,9 @@ We also recognize that many of our users will be new to cooking their own food, 
 
 ### Research Methodology
 
-#### Our Systematic Literature Review
+#### Systematic Literature Review
 
-In preperation for designing our first prototype of the app, our team conducted a brief literature review to try learn about what other reseachers have tested and what worked or didn't work.  
+In preperation for designing our first prototype of the app, our team conducted a brief literature review to try learn about what other reseachers have found are most important when designing solutions that encourage healthy eating.
 
 We reviewed 8 papers in total on the subject of promoting healthy eating via some ICT implementation or with specific constrains, such as a budget.  
 
@@ -66,21 +66,26 @@ Overall, we noticed a couple of main points that we wanted to address:
 After our literature review we knew that when designing our app we need it to be targetted towards lower-income households, and to provide them with basic education about how to succesfully eat healthy on a budget. We also needed to find a way to keep our users engaged and coming back to the app, so some form of gamification elements should be included.
 
 #### Initial Prototype
-![Prototype 1 Homepage](/Proto1 Homepage.png)  ![Protoype 1 Homepage2](/Proto1 Homepage2.png)  
 
-![Prototype 1 Cookbook](/Proto1 Cookbok.png)  ![Protoype 1 Cookbook2](/Proto1 Cookbook2.png)  
+![Prototype 1 Collection](/Proto1 Collection.png)
 
-![Prototype 1 GroceryList](/Proto1 Grocerylist.png)  ![Protoype 1 Account](/Proto1 Account.png)
+#### System Analysis
+
+Along with our systematic literature review, we also conducted some systems analysis to explore what other software developers have tried, and what worked really well and what features seemed to fall short.
+
+We analyzed 12 existing ICT's aimed at promoting healthy eating, some of which are still being maintained and supported, like "MyFitnessPal", and others that have died out and are no longer accessible, like "Food On The Table".
+
+Overall we found that a lot of the apps were designed with one particular aspect of healthy eating in mind. MyFitnessPal for instance has a lot of awesome features pertaining to calorie counting, and ensuring that the user is consuming their recommended macro's each day, and are on track to reach their weight goals in the future. Other apps had budgeting as the main focus, or perhaps were simply focused with providing a lot of healthy recipes. Other solutions prioritized easy to make recipes, for example. And so our app was designed to be a fusion of all the necessary components to eat cheap and healthy.
+
+Many of the systems we looked at also included some form of social media element, allowing the user to interact with their friends so they could share recipes or compete in fitness challenges. A lot of these implementations felt very, "tacked on" to the underlying existing system, and so we decided to not implement any similar social media feature in our design.
+
+#### Updated Prototype
+![Prototype 2 Collection 1](/Proto2 Collection1.png)
+
+![Prototype 2 Collection 2](/Proto2 Collection2.png)
 
 
 
-
-
-How many papers did you read? Write a summary of your findings. 
-Give the pictures of your group prototype
-Explain your system analysis. 
-How many systems did you analyze? 
-Write a summary of your findings. 
 Give the pictures of your updated group prototype
 Explain your user study. 
 How many interviews did you conduct? 
