@@ -66,7 +66,7 @@ Overall, we noticed a couple of main points that we wanted to address:
 After our literature review we knew that when designing our app we need it to be targetted towards lower-income households, and to provide them with basic education about how to succesfully eat healthy on a budget. We also needed to find a way to keep our users engaged and coming back to the app, so some form of gamification elements should be included.
 
 #### Initial Prototype
-![Prototype 1 Homepage](/Proto1 Homepage.png)
+![Prototype 1 Homepage](/Proto1 Homepage.png) ![Protoype 1 Homepage2](/Proto1 Homepage2.png)
 
 
 
