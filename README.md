@@ -3,7 +3,7 @@
 *This is currently in development*
 
 This is a website for one of Western Washington University's CSCI 436/536 Technology for Social Good class projects.
-This is Group #4's "Healthy Eats" app, which started development Winter Quarter of 2021 with Dr. Shameem Ahmed.
+This is Group #1's "Healthy Eats" app, which started development Winter Quarter of 2021 with Dr. Shameem Ahmed.
 
 Students:
 - Jeremy Hummel (hummelj3@wwu.edu)
@@ -195,7 +195,11 @@ The app was developed within Android Studio, an excellent tool for collaborative
 
 ### Video Walkthrough
 
-You can watch a video demonstration of the Healthy Eats app [here]().
+You can watch a video demonstration of the Healthy Eats app testing [here]().
+
+You can watch a video demonstration of the Healthy Eats app here[](video.mp4).
+
+![](video.mp4)
 
 ### Future Work
 
