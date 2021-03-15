@@ -195,11 +195,8 @@ The app was developed within Android Studio, an excellent tool for collaborative
 
 ### Video Walkthrough
 
-You can watch a video demonstration of the Healthy Eats app testing [here]().
-
-You can watch a video demonstration of the Healthy Eats app here[](video.mp4).
-
-![](video.mp4)
+You can watch a video demonstration of the Healthy Eats app testing here:
+https://user-images.githubusercontent.com/63468146/111197542-d4a53300-857b-11eb-9267-f150222a309d.mp4.
 
 ### Future Work
 
