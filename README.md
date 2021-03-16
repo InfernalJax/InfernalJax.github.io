@@ -1,7 +1,5 @@
 ## Welcome
 
-*This is currently in development*
-
 This is a website for one of Western Washington University's CSCI 436/536 Technology for Social Good class projects.
 This is Group #1's "Healthy Eats" app, which started development Winter Quarter of 2021 with Dr. Shameem Ahmed.
 
